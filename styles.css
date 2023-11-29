@@ -1,0 +1,9 @@
+#product-list, #cart {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+.product {
+    margin-bottom: 10px;
+}
